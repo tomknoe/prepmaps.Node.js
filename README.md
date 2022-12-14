@@ -1,5 +1,3 @@
-**Made for Ironhack Full-Stack Development Bootcamp**
-
 <h1> PrEP Maps Miami </h1>
 
 **_The database for this project is no longer in use, function may be limited._**
